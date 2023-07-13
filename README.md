@@ -3,7 +3,7 @@
 ##Git Command
 
 ### git clone
-Used for downlaoding exactly what is currently on the remote repositoryand saving it in your machine's folder where that project is placed. (Only one time)
+Used for downloading exactly what is currently on the remote repositoryand saving it in your machine's folder where that project is placed. (Only one time)
 
 ### git fetch
 Used for teling the local repository that there are changes available in the remote repository without bringing the changes into the local repository.
